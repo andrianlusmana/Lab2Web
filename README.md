@@ -19,11 +19,11 @@
   <img width="458" alt="Screenshot 2024-10-04 102833" src="https://github.com/user-attachments/assets/2167ee97-2fb1-41f7-be99-3366b3a4a723">
  <br>
 <h2>Menambahkan CSS Selector</h2>
-Class selector
-Selector ini menargetkan elemen berdasarkan atribut class. Menggunakan class selector yang diawali dengan tanda titik (.) sangat disarankan apabila kamu ingin beberapa elemen memiliki style sama untuk menciptakan konsistensi dalam desain.
+<p>Class selector</P>
+<p>Selector ini menargetkan elemen berdasarkan atribut class. Menggunakan class selector yang diawali dengan tanda titik (.) sangat disarankan apabila kamu ingin beberapa elemen memiliki style sama untuk menciptakan konsistensi dalam desain.</P>
   
-ID selector
-ID selector menargetkan elemen berdasarkan atribut ID-nya.
-ID dirancang untuk elemen yang unik dan harus berbeda dari elemen lainnya di halaman web. Oleh karena itu, ID selector sangat disarankan bagi elemen dengan style khusus yang berbeda dari lainnya.
-Untuk menandai elemen dengan ID selector, kamu dapat menggunakan tanda pagar (#) sebelum nama ID.
+<p>ID selector</p>
+<p>ID selector menargetkan elemen berdasarkan atribut ID-nya.</p>
+<P>ID dirancang untuk elemen yang unik dan harus berbeda dari elemen lainnya di halaman web. Oleh karena itu, ID selector sangat disarankan bagi elemen dengan style khusus yang berbeda dari lainnya.
+Untuk menandai elemen dengan ID selector, kamu dapat menggunakan tanda pagar (#) sebelum nama ID.</P>
   <br>
