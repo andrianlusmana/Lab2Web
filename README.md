@@ -27,7 +27,6 @@
 <P>ID dirancang untuk elemen yang unik dan harus berbeda dari elemen lainnya di halaman web. Oleh karena itu, ID selector sangat disarankan bagi elemen dengan style khusus yang berbeda dari lainnya.
 Untuk menandai elemen dengan ID selector, kamu dapat menggunakan tanda pagar (#) sebelum nama ID.</P>
 <img width="350" alt="Screenshot 2024-10-04 103446" src="https://github.com/user-attachments/assets/44f53375-fd53-45bc-b627-cb5657d0cf72">
-<img width="412" alt="Screenshot 2024-10-08 002112" src="https://github.com/user-attachments/assets/efb38fef-19be-4af1-9947-84b5c2780f86">
 <img width="776" alt="Screenshot 2024-10-04 103431" src="https://github.com/user-attachments/assets/58bc4e56-9d64-4dcf-8e26-d76faaa6988e">
 
 
