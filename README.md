@@ -12,9 +12,10 @@
 <h2>Menambahkan Inline CSS</h2>
   <P>Inline CSS adalah kode CSS yang ditulis langsung pada atribut elemen HTML. Setiap elemen HTML memiliki atribut style, di situ lah inline CSS ditulis.</p>
   <img width="493" alt="Screenshot 2024-10-04 102537" src="https://github.com/user-attachments/assets/e7147ac5-8bbd-4a33-8f12-ad722673e10f">
-<img width="767" alt="Screenshot 2024-10-04 102557" src="https://github.com/user-attachments/assets/3563201c-43c7-45ce-b4de-b1c2c7bd16cf">
-
+<img width="767" alt="Screenshot 2024-10-04 102557" src="https://github.com/user-attachments/assets/3563201c-43c7-45ce-b4de-b1c2c7bd16cf"><br>
+<h2>Membuat CSS Eksternal</h2>
+  <p>Eksternal CSS adalah kode CSS yang ditulis terpisah dengan kode HTML Eksternal CSS ditulis di sebuah file khusus yang berekstensi .css. File eksternal CSS biasanya diletakkan setelah bagian <head> pada halaman.
+Untuk menggunakan file style.css dalam HTML, Anda perlu menambahkannya ke dalam file HTML. Dengan menggunakan tag <link> berikut contohnya.
+</p>
   <br>
-  
-<h2>Membuat CSS Eksternal</h2><br>
 <h2>Menambahkan CSS Selector</h2><br>
